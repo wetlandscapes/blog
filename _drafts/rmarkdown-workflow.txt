@@ -1,0 +1,41 @@
+This document provides some guidance on writing blogs for Jekyll with Rmarkdown. Eventually I'll write a script to do this automatically...
+
+## The workflow
+
+1. Make a new folder in /_drafts/, to house the post.
+2. Make the rmd file and write the post in rmarkdown, as normal.
+3. Add this to the yaml front matter of the rmd file:
+
+---
+output:
+  html_fragment:
+    keep_md: yes
+    self_contained: false
+---
+
+4. Use this line in knitr's setup chunk:
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE) #Optional
+knitr::opts_chunk$set(fig.path = "../../assets/images/'<name-of-post>'/")
+```
+
+Note: replace '<name-of-post>' part of the path with the actual name of the post, including dashes.
+Note: the "../../" part of the fig.path will mean that the figures will look "up" two folders from the relative path of the blog. We'll deal with this path in a moment.
+
+5. Knit the file.
+6. Move the output .md file to the /_posts/ folder.
+7. Change the name of the /_posts/*.md file to include the date. For example: '2019-01-02-new-website.md'.
+8. Delete the existin yaml frontmatter from the _post file, but add the following line:
+
+---
+permalink: /blog/:title/
+---
+
+Note: This resolves the second note of step 4. All the image links should be in working order now.
+
+## Useful references
+
+- https://liao961120.github.io/2018/08/02/rblogger-criteria.html
+
+

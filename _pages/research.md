@@ -82,4 +82,4 @@ While my academic career is still developing, below are some of the research pro
 
 ## Some of my published works
 
-{% bibliography %}
+<!-- {% bibliography %}  -->

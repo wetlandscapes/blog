@@ -38,7 +38,7 @@ figure-left {
 </style>
 
 <figure-right>
-  <img src="/assets/images/research-difficult.jpg"
+  <img src="{{ site.url }}/assets/images/research-difficult.jpg"
     alt="Jason Mercer">
   <figcaption>Lake-wetland-upland complex, Southcentral Alaska.</figcaption>
 </figure-right>

@@ -40,7 +40,7 @@ figure-left {
 <figure-right>
   <img src="/assets/images/research-difficult.jpg"
     alt="Jason Mercer">
-  <figcaption>Wetland complex, Southcentral Alaska.</figcaption>
+  <figcaption>Lake-wetland-upland complex, Southcentral Alaska.</figcaption>
 </figure-right>
 
 Lakes and wetlands are extremely valuable ecosystem service providers. That is, they moderate floods, provide habitat for a large number of plants and animals, clean our water, and store vast amounts of carbon. These and other services are the reason lakes and wetlands became the focus of the first ecosystem-specific global treaty, the Ramsar Convention.

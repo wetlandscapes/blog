@@ -38,9 +38,7 @@ figure-left {
 </style>
 
 <figure-right>
-  <img src="/assets/images/about-viking.jpg"
-    width="400" height="300"
-    alt="Jason Mercer">
+  <img src= "{{ "/assets/images/about-viking.jpg" | absolute_url }}">
   <figcaption>Packrafting the Anaktuvuk River, North Slope, Alaska.</figcaption>
 </figure-right>
 
@@ -49,9 +47,7 @@ I'm currently studying at the [University of Wyoming](http://www.uwyo.edu) where
 My [research page]({{ site.baseurl }}{% link _pages/research.md %}) provides some of my academic interests, but in summary, I really like lakes, wetlands, and data science. My obsession with aquatic ecosystems is probably in part due to my upbringing. I was born and raised in Alaska where > 40 % of the state is considered wetland. My professional career has also always focused on some aspect of natural resources management, so it's hard to escape working with wetlands either directly or indirectly when they are such a prominant feature on the landscape. 
 
 <figure-left>
-  <img src="/assets/images/about-soil.jpg"
-    width="400" height="300"
-    alt="Jason Mercer">
+  <img src= "{{ "/assets/images/about-soil.jpg" | absolute_url }}">
   <figcaption>Soil plug hunting, North Slope, Alaska.</figcaption>
 </figure-left>
 

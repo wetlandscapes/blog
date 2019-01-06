@@ -81,5 +81,3 @@ While my academic career is still developing, below are some of the research pro
 * ORCID: https://orcid.org/0000-0002-6193-5032
 
 ## Some of my published works
-
-<!-- {% bibliography %}  -->

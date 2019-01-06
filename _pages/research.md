@@ -38,8 +38,7 @@ figure-left {
 </style>
 
 <figure-right>
-  <img src="{{ site.url }}/assets/images/research-difficult.jpg"
-    alt="Jason Mercer">
+  <img src= "{{"/assets/images/research-difficult.jpg" | absolute_url }}">
   <figcaption>Lake-wetland-upland complex, Southcentral Alaska.</figcaption>
 </figure-right>
 
@@ -48,8 +47,7 @@ Lakes and wetlands are extremely valuable ecosystem service providers. That is, 
 However, despite their importance, the fate of many lakes and wetlands around the world is uncertain due to changing environmental conditions and increasing urbanzation pressures. Of particular importance is changing water availability, because without adequate water supplies, lakes and wetlands cannot exist. This is particularly true in mountainous ares, which are seeing unprecedented changes in snowpack, glacial extents, and air temperatures. At the same time, increased recreation in mountainous terrain is promoting more and more development, thus directly and indirectly impacting mountain lakes and wetlands. These conditions are somewhat further exacerbated by atmospheric pollution, which is altering the chemistry of valuable mountain aquatic ecosystems.
 
 <figure-left>
-  <img src="/assets/images/research-polygons.jpg"
-    alt="Jason Mercer">
+  <img src="{{ "/assets/images/research-polygons.jpg" | absolute_url }}">
   <figcaption>Permafrost polygons, North Slope Alaska.</figcaption>
 </figure-left>
 
@@ -58,8 +56,7 @@ Given the myriad of pressures on mountain lakes and wetlands it is thus unclear 
 Our current understanding of mountain lakes and wetlands is naiscent, and thus it is not possible to answer some of the questions I've highlighted above. However, my overall research is focused on expanded our knowledge of these ecosystems so that we may start to understand how they will respond to the pressures impacting their ability to function. Hopefully, such understanding will not just help us better manage these ecosystems, but also plan for an uncertain future, and thus minimize the environmental and economic costs associated with reduced lake and wetland functional capacities.
 
 <figure-right>
-  <img src="/assets/images/research-alpine.jpg"
-    alt="Jason Mercer">
+  <img src="{{ "/assets/images/research-alpine.jpg" | absolute_url }}">
   <figcaption>Alpine peatland, Banff National Park, Canada.</figcaption>
 </figure-right>
 

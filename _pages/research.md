@@ -42,16 +42,16 @@ figure-left {
   <figcaption>Lake-wetland-upland complex, Southcentral Alaska.</figcaption>
 </figure-right>
 
-Lakes and wetlands are extremely valuable ecosystem service providers. That is, they moderate floods, provide habitat for a large number of plants and animals, clean our water, and store vast amounts of carbon. These and other services are the reason lakes and wetlands became the focus of the first ecosystem-specific global treaty, the Ramsar Convention.
+Lakes and wetlands are extremely valuable ecosystem service providers, generating trillions of dollars in non-market benefits every year. That is, these ecosystems moderate floods, provide habitat for a large number of plants and animals, clean our water, and store vast amounts of carbon. These and other services are the reason lakes and wetlands became the focus of the first ecosystem-specific global treaty, the [Ramsar Convention](https://www.ramsar.org/).
 
-However, despite their importance, the fate of many lakes and wetlands around the world is uncertain due to changing environmental conditions and increasing urbanzation pressures. Of particular importance is changing water availability, because without adequate water supplies, lakes and wetlands cannot exist. This is particularly true in mountainous ares, which are seeing unprecedented changes in snowpack, glacial extents, and air temperatures. At the same time, increased recreation in mountainous terrain is promoting more and more development, thus directly and indirectly impacting mountain lakes and wetlands. These conditions are somewhat further exacerbated by atmospheric pollution, which is altering the chemistry of valuable mountain aquatic ecosystems.
+Despite their importance, the fate of many lakes and wetlands around the world is uncertain due to changing environmental conditions and increasing urbanzation pressures. Of particular importance is changing water availability, because without adequate water supplies, lakes and wetlands cannot exist. This is particularly true in mountainous areas, which are seeing unprecedented changes in snowpack, glacial extents, and air temperatures. At the same time, increased recreation in mountainous terrain is promoting more and more development, thus directly and indirectly impacting mountain lakes and wetlands. These conditions are somewhat further exacerbated by atmospheric pollution, which is altering the chemistry of valuable mountain aquatic ecosystems.
 
 <figure-left>
   <img src="{{ "/assets/images/research-polygons.jpg" | absolute_url }}">
   <figcaption>Permafrost polygons, North Slope Alaska.</figcaption>
 </figure-left>
 
-Given the myriad of pressures on mountain lakes and wetlands it is thus unclear how much change they may be able to incorporate before losing their ability to perform functions (e.g., water purification) that we find valuable. Will their change in function be proportional to some other change (e.g., amount of wetlands lost to development), or might we excpect a certain amount of resistance to these changes, due to stabilizing feedbacks?
+Given the myriad of pressures on mountain lakes and wetlands it is thus unclear how much change they may be able to incorporate before losing their ability to perform functions (e.g., water purification) that we find valuable. Will their change in function be proportional to some other change (e.g., amount of wetlands lost to development), or might we expect a certain amount of resistance to these changes, due to stabilizing feedbacks?
 
 Our current understanding of mountain lakes and wetlands is naiscent, and thus it is not possible to answer some of the questions I've highlighted above. However, my overall research is focused on expanded our knowledge of these ecosystems so that we may start to understand how they will respond to the pressures impacting their ability to function. Hopefully, such understanding will not just help us better manage these ecosystems, but also plan for an uncertain future, and thus minimize the environmental and economic costs associated with reduced lake and wetland functional capacities.
 
@@ -60,7 +60,7 @@ Our current understanding of mountain lakes and wetlands is naiscent, and thus i
   <figcaption>Alpine peatland, Banff National Park, Canada.</figcaption>
 </figure-right>
 
-While my academic career is still developing, below are some of the research projects, publications, and resources I've been working on over the last few years. In aggregate, I believe this portfolio is generating new perspectives on the hydrological controls and importance of mountain wetlands, and the relationships between these ecosystems and their surrounding landscapes. 
+While my academic career is still developing, below are some of the research projects and publications I've been working on over the last few years. In aggregate, I believe this portfolio is generating new perspectives on the hydrological controls and importance of mountain wetlands, and the relationships between these ecosystems and their surrounding landscapes. 
 
 ## Highlighted research projects
 

@@ -1,5 +1,11 @@
 This document provides some guidance on writing blogs for Jekyll with Rmarkdown. Eventually I'll write a script to do this automatically...
 
+* I may actually be able to use the `blogdown` package to generate the documents I need
+  * https://bookdown.org/yihui/blogdown/jekyll.html
+  
+* It may be worth going through the kramdown documentation to avoid doing more html work than necessary:
+  * https://kramdown.gettalong.org/quickref.html
+
 ## The workflow
 
 1. Make a new folder in /_drafts/, to house the post.

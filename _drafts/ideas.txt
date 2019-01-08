@@ -1,0 +1,7 @@
+# Blogs
+
+## Open science workflow
+
+I could provide some thoughts on how I'm organizing my data and code to increase its useability by not just me, but other scientists.
+
+## Using RSelenium to automatically download isotope data from WISER

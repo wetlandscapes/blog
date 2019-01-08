@@ -53,15 +53,14 @@
 ## Data
 
 * ~~Rotate the header picture just a little bit~~
-* Add a link to my activities with the Data Science Center
-  * https://microcollaborative.atlassian.net/wiki/spaces/DSC/overview
-* Just add some thoughts on open data
-* Include some data sources of interest
+* ~~Just add some thoughts on open data~~
+* ~~Include some data sources of interest~~~
+* Add image: collecting data with David L in the Snowies.
 * Once I've add more do the sources above, I can include links to those resources
 * Link papers to data sets
-  * Ex: Why are some Rocky Mountain lakes ephemeral?
-    * Paper: https://doi.org/10.1029/2017WR022261
-	* Data:  https://doi.org/10.15786/M2F66V
+  * ~~Ex: Why are some Rocky Mountain lakes ephemeral?~~
+    * ~~Paper: https://doi.org/10.1029/2017WR022261~~
+	* ~~Data:  https://doi.org/10.15786/M2F66V~~
   * Is there some automated way of doing this?
 
 * I may want to consider a similar strucutre here as in the research page
@@ -70,6 +69,9 @@
     * This would include links and DOIs to data associated with specific papers or efforts
 
 ## Code
+
+* ~~Add a link to my activities with the Data Science Center~~
+  * ~~https://microcollaborative.atlassian.net/wiki/spaces/DSC/overview~~
 
 Websites with examples of functionalities:
 

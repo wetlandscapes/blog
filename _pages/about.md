@@ -51,6 +51,6 @@ My [research page]({{ site.baseurl }}{% link _pages/research.md %}) provides som
   <figcaption>Soil plug hunting, North Slope, Alaska.</figcaption>
 </figure-left>
 
-Personal interest in data science is a more recent development. While computers have seemingly always been in my life (my mom was a systems administrator in my younger years), I didn't do much scripting or programming until my MSc where I (re)discovered the utility of languages like R, Python, and C++ for doing data analysis. Since then, I've been virtually inhaling as much information as I can related to how I can use the programming paradigm to better understand the ecosystems I study.
+Interest in data science is a more recent development. While computers have seemingly always been in my life (my mom was a systems administrator in my younger years), I didn't do much scripting or programming until my MSc where I (re)discovered the utility of languages like R, Python, and C++ for doing data analysis. Since then, I've been virtually inhaling as much information as I can related to how I can use the programming paradigm to better understand the ecosystems I study.
 
 Because my life currently focuses on my PhD, my extracurricular activities have somewhat changed over the last few years. However, when I can, I do enjoy hiking, skiing, cooking, drinking, friends, board games, and music.

@@ -1,0 +1,87 @@
+# Functionalities beyond GitHub
+
+## General
+
+* Make pictures expandable -- If you click on them they get bigger
+* Should write some regression tests
+  * I could make sure all my links work with RSelenium
+* Update fonts
+  * Author: Make sure they are all black and white
+  * Get the academicons working and add
+    * ORCID
+	* Mendeley
+  * Possible solutions:
+    * https://github.com/mmistakes/minimal-mistakes/issues/798
+	* https://github.com/jonbra/jonbra.github.io
+	  * Seems like this person got academicons working on his site.
+	* https://jpswalsh.github.io/academicons/
+
+## Home
+
+* Twitter feed
+  * See Scarpino website
+
+## About
+
+## Blog
+
+* Write an actual "new website" blog.
+* Include preview images instead of just a verbal descriptions
+  * Example (using mimimal mistakes?): https://jonbra.github.io/publications/
+
+## Research
+
+* Drop down button with mutliple sections:
+  * About my research
+  * Highlighted projects
+  * Where to find my works, as well as a list of publications
+    * Integration/syncing with ORCID
+	  * Add MSc to ORCID database
+	    * https://support.orcid.org/hc/en-us/articles/360006973133-Add-works-to-your-ORCID-record
+	  * Add data-set from lakes manuscript to ORCID database
+	    * https://members.orcid.org/api/resources/work-types
+	  * Resolve ResearchGate DOI or get a new one
+	    * https://explore.researchgate.net/display/support/ResearchGate+DOIs
+	  * Bold my name in citation list
+	    * Possible example: https://github.com/jgoodall/jgoodall.github.io
+    * Some additional publications functionality: https://github.com/jgoodall/jekyll-scholar-extras
+* Alternatively, I could just make separate pages for each of these, which would probably be simpler
+  * Research (philosophy and focus)
+  * Projects (highlight projects)
+  * Publications (Publications and where to find my academic activities)
+
+## Data
+
+* ~~Rotate the header picture just a little bit~~
+* Add a link to my activities with the Data Science Center
+  * https://microcollaborative.atlassian.net/wiki/spaces/DSC/overview
+* Just add some thoughts on open data
+* Include some data sources of interest
+* Once I've add more do the sources above, I can include links to those resources
+* Link papers to data sets
+  * Ex: Why are some Rocky Mountain lakes ephemeral?
+    * Paper: https://doi.org/10.1029/2017WR022261
+	* Data:  https://doi.org/10.15786/M2F66V
+  * Is there some automated way of doing this?
+
+* I may want to consider a similar strucutre here as in the research page
+  * General (philosophy and resources)
+  * Projects (Project-specific data)
+    * This would include links and DOIs to data associated with specific papers or efforts
+
+## Code
+
+Websites with examples of functionalities:
+
+ * http://scarpino.github.io/; https://github.com/scarpino/scarpino.github.io
+ 
+## Other pages of interest
+
+* Image gallery
+  * Use the gallery concept: https://mmistakes.github.io/minimal-mistakes/docs/helpers/
+  
+## Other issues of interest
+
+* Consider hosting page on GitLabs
+  * They do not appear to have the same Jekyll plugin restrictions that Github has:
+    * https://about.gitlab.com/2016/04/07/gitlab-pages-setup/

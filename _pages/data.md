@@ -11,7 +11,7 @@ author_profile: true
 
 I'm somewhat obsessed with open science and reproducible research. To these ends I'm trying to share as much of my data as possible, as well as provide some other resources for finding open source data. My hope is that by sharing what I and others have collected or analyzed, we may squeeze every last drop of inference from the observations made.
 
-Below are some of the data sets I've worked on, as well as some data sources and tools that I've found 
+Below are some of the data sets I've worked on, as well as some data sources and tools that I've found to be useful.
 
 ## Data from my projects
 
@@ -49,6 +49,8 @@ Liefert, D. T., Shuman, B. N., Parsekian, A. D., & __Mercer, J. J.__ (2017). Sno
 * [ISCN: International Soil Carbon Network](http://iscn.fluxdata.org/)
 * [USDA Natural Resources Conservation Services's Soil Geogography](https://www.nrcs.usda.gov/wps/portal/nrcs/main/soils/survey/geo/)
   * A jumping off point for exploring a number of the USDA NRCS's data products, such as STATSGO2 and SSURGO.
+* [ISRIC: International Soil Reference and information Centre](https://www.isric.org/index.php/)
+  * Splash page for global soil properties, such as the [Soil Data Hub](https://www.isric.org/explore/isric-soil-data-hub).
 
 ### Ecosystem related
 

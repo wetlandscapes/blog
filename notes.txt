@@ -75,7 +75,8 @@
 
 Websites with examples of functionalities:
 
- * http://scarpino.github.io/; https://github.com/scarpino/scarpino.github.io
+* http://scarpino.github.io/; https://github.com/scarpino/scarpino.github.io
+* https://ourcodingclub.github.io/; https://github.com/ourcodingclub/ourcodingclub.github.io
  
 ## Other pages of interest
 
